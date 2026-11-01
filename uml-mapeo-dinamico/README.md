@@ -48,3 +48,9 @@ La búsqueda recuperó 116 registros. El resultado principal de Undermind señal
 
 ## Próximo paso recomendado
 Completar la búsqueda profunda, leer los PDF de los estudios centrales que estén disponibles y construir una matriz comparativa de conceptos modelados: nodo, contenedor, componente, relación de hosting, evento, estado, escalado, scheduling, migración y reconfiguración.
+
+## Profundización comparativa de los cinco estudios prioritarios
+
+Se añadió el informe **[Profundización y matriz comparativa de cinco estudios centrales](profundizacion-comparativa-cinco-articulos.md)**. Incluye análisis individual de Moh25, Kan14, Bet20, Hag26 y Ber14; matriz comparativa; síntesis crítica; propuesta inicial de conceptos de metamodelo; preguntas de investigación y referencias primarias.
+
+**Calidad de evidencia:** se leyeron los textos completos de Moh25, Kan14 y Ber14. Para Bet20 se dispone de abstract y metadatos; para Hag26 se dispone del abstract y de la página oficial ICSA 2026 que anuncia un preprint. Estos dos análisis quedan marcados como provisionales hasta revisar sus PDF.
